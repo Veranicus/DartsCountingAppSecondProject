@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ShooterNameViewPadding">20dp</dimen>
+    <dimen name="NumberViewMargin">20dp</dimen>
+    <dimen name="ResetButtonAMargin">8dp</dimen>
+    <dimen name="ResetButtonBMargin">23dp</dimen>
+</resources>

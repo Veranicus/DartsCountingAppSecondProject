@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Udacity_Course_Project2</string>
+    <string name="PlusOnePoint">+1 POINT</string>
+    <string name="PlusTwoPoint">+2 POINTS</string>
+    <string name="PlusThreePoint">+3 POINTS</string>
+    <string name="PlusFourPoint">+4 POINTS</string>
+    <string name="NameOfShooter1">Shooter1</string>
+    <string name="NameOfShooter2">Shooter2</string>
+    <string name="NumberScoreShooter1">0</string>
+    <string name="NumberScoreShooter2">0</string>
+    <string name="ResetButtonAText">RESET A</string>
+    <string name="ResetButtonBText">RESET B</string>
+</resources>
